@@ -17,6 +17,6 @@
     color: pink;
 }
 
-#basic{
+#basic > p{
     font-weight: bold;
 }
