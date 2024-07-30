@@ -4,7 +4,6 @@
     text-align: center;
     margin: 0 auto;
     margin-top: 20px;
-    position: relative;
 }
 
 
@@ -20,7 +19,7 @@
     margin: 20px auto; 
     background-color :#ffd9df;
     margin-top: 20px;
-    
+    position: relative;
 }
 
 #middle-child01 {
